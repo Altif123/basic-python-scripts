@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 def find_bio(username):
     c = format("https://twitter.com"+"/" + username)
     r = requests.get(c)
-    s = BeautifulSoup(r.text, "html.parser")
+    s = BeautifulSoup(r.text, "html.parser")#.replace
 
     return s.find("div", class_="ProfileHeaderCard").text
 
@@ -15,7 +15,7 @@ def find_bio(username):
 def find_toptweet(username):
     c = format("https://twitter.com"+"/" + username)
     r = requests.get(c)
-    s = BeautifulSoup(r.text, "html.parser")
+    s = BeautifulSoup(r.text, "html.parser")#.replace
 
     return s.find("div", class_="content").text
 
