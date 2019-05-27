@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0db5c1b0-0b71-4e6c-b7f1-67723afa9455" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/venv/python-scripts/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUI project.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/python-scripts/GUI project.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GUItink.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/python-scripts/GUItink.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/characterInput.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/python-scripts/characterInput.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fibonaciseq.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/python-scripts/fibonaciseq.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/findtempcity.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/python-scripts/findtempcity.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gui.ui" beforeDir="false" afterPath="$PROJECT_DIR$/venv/python-scripts/gui.ui" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/python-scripts/list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oddOrEven.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/python-scripts/oddOrEven.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/soup.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/python-scripts/soup.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tweepyScraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/python-scripts/tweepyScraper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/twitterScraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/python-scripts/twitterScraper.py" afterDir="false" />
-    </list>
+    <list default="true" id="0db5c1b0-0b71-4e6c-b7f1-67723afa9455" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -192,6 +179,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/exc1.py" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -387,7 +375,7 @@
       <workItem from="1558180096991" duration="3110000" />
       <workItem from="1558711028496" duration="9303000" />
       <workItem from="1558790736145" duration="3025000" />
-      <workItem from="1558793974144" duration="21523000" />
+      <workItem from="1558793974144" duration="22121000" />
     </task>
     <task id="LOCAL-00001" summary="python scripts">
       <created>1558966278547</created>
@@ -400,17 +388,17 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55573000" />
+    <option name="totallyTimeSpent" value="56171000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4985507" visible="true" weight="0.25201073" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4985507" visible="true" weight="0.25201073" />
       <window_info id="Structure" order="1" sideWeight="0.5014493" side_tool="true" weight="0.25201073" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32956153" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.23338048" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" weight="0.23338048" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39886847" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
