@@ -1,0 +1,15 @@
+import shutil 
+import os 
+
+path = input('Please input a path: ')
+path_dst = input('Please input a path for the destination: ')
+for folders in os.listdir(path):
+    for file in os.listdir(path+"\\" +folders):
+        path_to_file =path +"\\" + folders+"\\" + file #build source directory
+        
+        #another level of folders 
+        if file.endswith(".jpg"):
+            print(file.endswith(".jpg"))    
+            src_dir = "your/source/dir"
+            dst_dir = "your/dest/dir"
+            shutil.copy(path_to_file,path_dst)
